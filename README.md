@@ -1,25 +1,6 @@
-KEBASO JACOB   
-NAOMI KURIA
-SAMUEL KIRAGU 
-RAPHAEL LEKUMO
-
-
-
-
-
-
-
 
 PROJECT: IOT INTEGRATION FOR PRECISION AGRICULTURE
 
-
-
-
-
-
-
-
- 
 1.	Introduction
 Problem statement:
 Weather conditions significantly impact farming operations, affecting crop yields and overall farm management. Adverse weather events, such as heavy rain, drought, or extreme temperatures, pose significant challenges to farmers. In a bid to optimize farming practices, minimize losses, and ensure resource-efficient operations, farmers require accurate and timely weather forecasts tailored to their specific locations, accessible remotely(serving them remotely instead of relying on the genralised location mapping of the forecasts).
